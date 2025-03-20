@@ -19,7 +19,7 @@
     <sup>†</sup>Corresponding Author
 </div>
 
-<h3 align="center">[<a href="http://arxiv.org/abs/2410.06940">paper</a>]</h3>
+<h3 align="center">[<a href="https://arxiv.org/abs/2412.10831">paper</a>]</h3>
 
 <div align="center">
   <img src="assets/teaser.png" class="interpolation-image" alt="arch." height="60%" width="80%" />
@@ -78,7 +78,7 @@ Feel free to inform us if you encounter any issues.
 
 ## Acknowledgement
 
-This code is mainly built upon [diffusers](https://github.com/huggingface/diffusers) and [CoMat](https://github.com/CaraJ7/CoMat). Thank these great work.
+This code is mainly built upon [diffusers](https://github.com/huggingface/diffusers) and [CoMat](https://github.com/CaraJ7/CoMat). Thank their open-source!
 
 ## Citation
 
