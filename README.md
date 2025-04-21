@@ -25,11 +25,15 @@
   <img src="assets/teaser.png" class="interpolation-image" alt="arch." height="60%" width="80%" />
 </div>
 
+
+
 We introduce an low-biased general annotated dataset generation (**lbGen**) framework which  directly generates low-biased images with
 category annotations. \
 We find that pre-training on our generated dataset can significantly improve the generalization ability of the models under the cross-category or cross-domain scenarios.
 
-
+<div align="center">
+  <img src="assets/teaser2.png" class="interpolation-image" alt="arch." height="54%" width="80%" />
+</div>
 
 
 
