@@ -2,6 +2,15 @@
 <h1>  Low-Biased General Annotated Dataset Generation</h1> 
 </div>
 
+<p align="center">
+  <a href="https://arxiv.org/abs/2412.10831">
+    <img src="https://img.shields.io/badge/arXiv%20paper-2412.10831-b31b1b.svg" alt="arXiv Paper">
+  </a>
+  <a href="https://www.xiaohongshu.com/user/profile/60195f8f0000000001009cc6">
+    <img src="https://img.shields.io/badge/Xiaohongshu(RedNote) Profile-Dy Jiang-red" alt="RedNote Profile">
+  </a>
+</p>
+
 <div align="center">
     Dengyang Jiang<sup>1*</sup> &ensp; <b>&middot;</b> &ensp; 
     Haoyu Wang<sup>1*</sup> &ensp; <b>&middot;</b> &ensp;
@@ -37,13 +46,8 @@ We find that pre-training on our generated dataset can significantly improve the
 
 
 
-## Overview
-- [Environment Setup](#install)
-- [Training](#train)
-- [Data Generation](#gen)
 
-
-## 1. Environment Setup
+## 👓 1.Environment Setup
 
 ```bash
 cd your_path/lbGen-main
@@ -52,7 +56,7 @@ conda activate lbgen
 pip install -r debias.txt
 ```
 
-## 2. Training
+## 📡 2.Training
 
 Using this repo, you can obtain lbGen generator by fine-tuning the diffusion models (sd15). 
 By default, we use a single machine with 8 gpus to train the model, 
@@ -63,7 +67,7 @@ cd training
 bash scripts/sd15.sh
 ```
 
-## 3. Data Generation
+## 📚 3.Data Generation
 
 After fine-tuning the diffusion model, you can generate the dataset. By
 default, we use 4 gpus to generate the dataset and the whole data will be saved in 'your_path/lbGen-main/data_gen/IN1K'.
@@ -74,17 +78,17 @@ python sd15gen.py
 ```
 
 
-#
-## Note
+
+## 🪩 4.Note
 
 It's possible that this code may not accurately replicate the results outlined in the paper due to potential human errors during cleaning the code and the differences between current available sd1.5 and previous runwayml version. \
 Feel free to inform us if you encounter any issues. 
 
-## Acknowledgement
+## 🤝 5.Acknowledgement
 
 This code is mainly built upon [diffusers](https://github.com/huggingface/diffusers) and [CoMat](https://github.com/CaraJ7/CoMat). Thank their open-source!
 
-## Citation
+## 💚 6.Citation
 
 If you find lbGen useful for your research and applications, please consider starring this repository and citing:
 ```
