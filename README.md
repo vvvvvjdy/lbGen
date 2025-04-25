@@ -11,22 +11,6 @@
   </a>
 </p>
 
-<div align="center">
-    Dengyang Jiang<sup>1*</sup> &ensp; <b>&middot;</b> &ensp; 
-    Haoyu Wang<sup>1*</sup> &ensp; <b>&middot;</b> &ensp;
-    Lei Zhang<sup>1†</sup> &ensp; <b>&middot;</b> &ensp;
-    Wei Wei<sup>1</sup> <br>
-    Guang Dai<sup>2</sup> &ensp; <b>&middot;</b> &ensp;
-    Mengmeng Wang<sup>3</sup> &ensp; <b>&middot;</b> &ensp;
-    Jingdong Wang<sup>4</sup> &ensp; <b>&middot;</b> &ensp;
-    Yanning Zhang<sup>1</sup><br>
-    <sup>1</sup>Northwestern Polytechnical University &emsp; 
-    <sup>2</sup>SGIT AI Lab, State Grid Corporation of China &emsp;<br>
-    <sup>3</sup>Zhejiang University of Technology &emsp;
-    <sup>4</sup>Baidu Inc. &emsp;<br>
-    <sup>*</sup>Equal Contribution &emsp;
-    <sup>†</sup>Corresponding Author
-</div>
 
 <h3 align="center">[<a href="https://arxiv.org/abs/2412.10831">paper</a>]</h3>
 
