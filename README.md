@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/arXiv%20paper-2412.10831-b31b1b.svg" alt="arXiv Paper">
   </a>
   <a href="https://www.xiaohongshu.com/user/profile/60195f8f0000000001009cc6">
-    <img src="https://img.shields.io/badge/Xiaohongshu(RedNote) Profile-Dy Jiang-red" alt="RedNote Profile">
+     <img src="https://img.shields.io/badge/Contact via Xiaohongshu(RedNote)-Dy Jiang-red" alt="RedNote Profile">
   </a>
 </p>
 
