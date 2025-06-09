@@ -12,7 +12,7 @@
 </p>
 
 
-<h3 align="center">[<a href="https://arxiv.org/abs/2412.10831">paper</a>]</h3>
+<h3 align="center">[<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Jiang_Low-Biased_General_Annotated_Dataset_Generation_CVPR_2025_paper.pdf">paper</a>]</h3>
 
 <div align="center">
   <img src="assets/teaser.png" class="interpolation-image" alt="arch." height="60%" width="80%" />
@@ -76,10 +76,11 @@ This code is mainly built upon [diffusers](https://github.com/huggingface/diffus
 
 If you find lbGen useful for your research and applications, please consider starring this repository and citing:
 ```
-@article{jiang_debias,
-  title={Unbiased General Annotated Dataset Generation},
+@inproceedings{jiang2025lbgen,
+  title={Low-Biased General Annotated Dataset Generation},
   author={Jiang, Dengyang and Wang, Haoyu and Zhang, Lei and Wei, Wei and Dai, Guang and Wang, Mengmeng and Wang, Jingdong and Zhang, Yanning},
-  journal={arXiv preprint arXiv:2412.10831},
-  year={2024}
+  booktitle={Proceedings of the Computer Vision and Pattern Recognition Conference},
+  pages={25113--25123},
+  year={2025}
 }
 ```
